@@ -1,0 +1,48 @@
+/* *{
+    padding: 0;
+    margin:0;
+}*/
+
+body{
+    font-size: 20px;
+    font-family: Consolas;
+    color: darkorchid;
+
+    background-image: url("png/phone.jpg");
+    background-attachment: fixed;
+
+
+
+}
+
+h1{
+    color: gold;
+}
+
+#people{
+    color: black;
+    background-color: lime;
+}
+
+.p1{
+    font-size: 130%;
+    color: deeppink;
+
+
+}
+
+.p2{
+    font-size: 130%;
+    color: deepskyblue;
+
+}
+
+.p3{
+    font-size: 130%;
+    color: ivory;
+}
+
+.pasch{
+    color: white;
+    font-size: 90%;
+}
